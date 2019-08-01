@@ -63,6 +63,8 @@ plot(A);
 ```matlab
 % commands can be passed to the operating system
 !ping google.com
+% stop ping from mac
+control+c
 
 who % Displays all variables in memory
 whos % Displays all variables in memory, with their types
